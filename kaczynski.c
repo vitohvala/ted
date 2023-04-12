@@ -18,7 +18,7 @@
 #define ABUF_INIT {NULL, 0}
 
 
-/*global variables*/
+/*global variables, enums, and structs*/
 typedef struct {
     int size;
     char *karakteri;
